@@ -1,3 +1,2 @@
 # jlangeloh.github.io
-Jacob Langeloh - Profile and CV
-This is the repository for my personal webpage.
+This is the repository for my (Jacob Langeloh's) personal webpage.
