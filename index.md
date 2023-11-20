@@ -6,4 +6,4 @@ layout: home
 title:  Hi, I'm Jacob
 ---
 
-I am an intellectual historian. I have studied and worked in philosophy and musicology, but recently, I have mostly worked on historical and philological topics. On this page, you can find my [CV](/CV), my [research projects](/research), [publications](/publications), and other [interests](/interests).
+I am an intellectual historian. I have studied and worked in philosophy and musicology, but recently, I have mostly worked on historical and philological topics. On this page, you can find my [research](/research), [publications](/publications), and other [interests](/interests).
