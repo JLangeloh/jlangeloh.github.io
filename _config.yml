@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jacob Langeloh - CV and Info
-email: your-email@example.com
+title: Jacob Langeloh
+email: jacob.langeloh [at] teol.ku.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Personal webpage for Jacob Langeloh
 
@@ -28,7 +28,7 @@ url: https://jlangeloh.github.io  # the base hostname and protocol for your site
 baseurl: /      # place folder name if the site is served in a subfolder
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: JLangeloh
+twitter_username: LangelohJ
 github_username:  jlangeloh
 
 # Build settings
@@ -38,6 +38,7 @@ plugins:
 
 header_pages:
  - research.md
+ - publications.md
  - cv.md
  - about.md
  

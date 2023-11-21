@@ -17,7 +17,7 @@ telalters, 123), Leiden: Brill, 2017. <a href="https://brill.com/display/title/3
 
 # Articles
 <ol>
-<li id="simplify"> ‘Simplify and Doctrinalise, Historify and Personalise: How Two Less-Known Works of Anti-Islamic Polemic from c. 1370–1440 Adapted their Sources’, in: <i>Journal of Qur'anic Studies</i> 25.2 (2023), 186–210.</li>
+<li id="simplify"> ‘Simplify and Doctrinalise, Historify and Personalise: How Two Less-Known Works of Anti-Islamic Polemic from c. 1370–1440 Adapted their Sources’ in: <i>Journal of Qur'anic Studies</i> 25.2 (2023) (European Visions of the Qur'an in the Middle Ages, ed. by F. Ninitte and I. Reginato), 186–210.</li>
 <li id="reasoning"> <i>forthcoming</i> ‘Reasoning with Riccoldo. John of Ragusa’s Fragmentum de Conditionibus Legum, written at Constantinople (?) c. 1437’ in: K. Villads Jensen, D. Scotto (eds.), <i>Riccoldo da Monte di Croce (†1320). Missionary to the Middle East and Expert on Islam</i>, Stockholm, 2023. [in print]</li>
 <li id="matched"> <i>forthcoming</i> ‘Matched weapons, rigged jury? The structure of the Immaculate Conception debate at the Council of Basel (1431–1449)’, in: F. Della Schiava, W. Decock, W. Druwé, W. Francois and G. Claessen, <i>True Warriors? Negotiating dissent in the intellectual debate (c. 1100-1700)</i> (= Lectio, 15), Turnhout: Brepols, 2024. [in print]</li>
 <li id="contingency"> ‘How history happens. Contingency and ﬁnality in the political philosophy of Marsilius of Padua, John Quidort of Paris and Dante Alighieri’ in: S. Masolini, A. Mulieri and J. Pelletier (eds.), <i>Marsilius of Padua between History, Philosophy and Politics</i> (= Disputatio, 36), Turnhout: Brepols, 2023, 253–284.</li>

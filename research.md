@@ -64,14 +64,14 @@ Outputs: See [Publication](/publications) [A1](/publications#simplify), and the 
 
 *Outputs:* See [publications](/publications) [M1](/publications#islam), [A2](/publications#reasoning), [A6](/publications#council), [A8](/publications#mission)
 
-# Political Philosophy in the Middle Ages
-I provided an historical and analytical description of the previously neglected role that exemplary and historical argumentation play in scholastic political treatises.
+# Political Philosophy in the Middle Ages and argumenation from examples
+In my PhD thesis, I provided an historical and analytical description of the previously neglected role that exemplary and historical argumentation play in scholastic political treatises. My advisor was Prof. Dr. Wilhelm Schmidt-Biggemann (FU Berlin).
 *Outputs:* See [publications](/publications) [M3](/publications#argumente), [A4](/publications#contingency), [A9](/publications#Minorem)
 
 # Translation: Athanasius Kircher, *Musurgia Universalis*
-Revision of a Latin-German Translation of the ‘Musurgia Univeralis’ by Athanasius Kircher (Rome 1650). Project at the HMT Leipzig (Prof. Dr. Christoph Hust) in cooperation with the DHI Rome (Dr. Markus Engelhardt).
+Together with Frank Böhling, I revised a Latin-German translation of the *Musurgia Univeralis* by Athanasius Kircher (Rome 1650). The *Musurgia Univeralis* consists of 10 books and about 1200 total pages that are supposed to contain "everything there is to know about music". The translation was originally done by the philologist Günter Scheibel. The project was initiated and led by Prof. Dr. Christoph Hust (HMT Leipzig) in cooperation with the DHI Rome (Dr. Markus Engelhardt).
 *Outputs:* See [publications](/publications) [T1](/publications#Kircher)
 
 # Conceptual History of Performance Concepts
-I analysed which concepts are used to describe musical performances throughout the 18th century
+I analysed which concepts were used to describe musical performances throughout the 18th century. The work focused in on three case studies that offered a specific milieu in terms of persons, society, structures, and publication organs. The three locations and time frames are also in the title of the book that came out of this project: Hamburg 1725, Berlin 1765, Wien 1800. The project was led by Prof. Dr. Dr. h. c. Hermann Danuser (HU Berlin). I cooperated closely with my two colleagues Laure Spaltenstein and Felix Emter, who covered the 19th and the 20th century, respectively.
 *Outputs:* See [publications](/publications) [M2](/publications#hamburg)
