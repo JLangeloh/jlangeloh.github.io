@@ -17,9 +17,11 @@ telalters, 123), Leiden: Brill, 2017. <a href="https://brill.com/display/title/3
 
 # Articles
 <ol>
-<li id="impossible"> ‘It Might Be Not Impossible: Negation, Ambiguity and the Role of the Narrator in Early-Modern Utopian Narrations’ in: S. Grund, R. Kirstein, J. Wagner (eds.), <i>Ambiguity and Narratology – Interdisciplinary Perspectives and Diachronic Case Studies</i>, De Gruyter: Berlin, 2024, 163–188.</li>
-<li id="reasoning"> <i>forthcoming</i> ‘Reasoning with Riccoldo. John of Ragusa’s Fragmentum de Conditionibus Legum, written at Constantinople (?) c. 1437’ in: K. Villads Jensen, D. Scotto (eds.), <i>Riccoldo da Monte di Croce (†1320). Missionary to the Middle East and Expert on Islam</i>, Stockholm, 2024, 219–237. [in print]</li>
-<li id="simplify"> ‘Simplify and Doctrinalise, Historify and Personalise: How Two Less-Known Works of Anti-Islamic Polemic from c. 1370–1440 Adapted their Sources’ in: <i>Journal of Qur'anic Studies</i> 25.2 (2023) (European Visions of the Qur'an in the Middle Ages, ed. by F. Ninitte and I. Reginato), 186–210.</li>
+<li id="riccoldo_linked"> <i>forthcoming</i> ‘From Florence, through Baghdad, into the world. Representing and analyzing influences on and of Riccoldo da Monte di Croce (d. 1320) as Linked Open Data’ in: <i>Archa Verbi – Yearbook for the Study of Medieval Theology</i>, 2025 [in print].</li>
+<li id="preacher"> <i>forthcoming</i> ‘Confutation, Conversion, Martyrdom. How John of Ragusa Sought to Confront the ‘Saracens’ While at Constantinople in 1435–1437’ in: <i>Rivista Storica Italiana</i>, 137.1 (2025), 268–303.</li>
+<li id="unleash"> <a href="https://doi.org/10.5617/dhnbpub.11519">‘Unleash the Apparatus? Towards a shared representation of knowledge about connections between primary sources’</a>, in: <i>Digital Humanities in the Nordic and Baltic Countries Publications</i>, 6.1 (2024).</li>
+<li id="reasoning"> <a href="https://doi.org/10.62077/35j8k4.j1gs7d">‘Reasoning with Riccoldo. John of Ragusa’s Fragmentum de Conditionibus Legum, written at Constantinople (?) c. 1437’</a> in: <a href="https://doi.org/10.62077/35j8k4">K. Villads Jensen, D. Scotto (eds.), <i>Riccoldo da Monte di Croce (†1320). Missionary to the Middle East and Expert on Islam</i></a>, Stockholm, 2024, 219–237.</li>
+<li id="simplify"> <a href="https://doi.org/10.3366/jqs.2023.0548">‘Simplify and Doctrinalise, Historify and Personalise: How Two Less-Known Works of Anti-Islamic Polemic from c. 1370–1440 Adapted their Sources’</a> in: <i>Journal of Qur'anic Studies</i> 25.2 (2023) (European Visions of the Qur'an in the Middle Ages, ed. by F. Ninitte and I. Reginato), 186–210.</li>
 <li id="matched"> ‘Matched weapons, rigged jury? The structure of the Immaculate Conception debate at the Council of Basel (1431–1449)’, in: F. Della Schiava, W. Decock, W. Druwé, W. Francois and G. Claessen, <i>True Warriors? Negotiating dissent in the intellectual debate (c. 1100–1700)</i> (= Lectio, 15), Turnhout: Brepols, 2023.</li>
 <li id="contingency"> ‘How history happens. Contingency and ﬁnality in the political philosophy of Marsilius of Padua, John Quidort of Paris and Dante Alighieri’ in: S. Masolini, A. Mulieri and J. Pelletier (eds.), <i>Marsilius of Padua between History, Philosophy and Politics</i> (= Disputatio, 36), Turnhout: Brepols, 2023, 253–284.</li>
 <li id="Neugier"> (with Susanna Fischer): ‘Neugier auf Pilgerreise: Curiositas im “Liber peregrinationis” des Riccoldo da Monte di Croce (ca. 1301) und in Felix Fabris “Evagatorium” (nach 1484)’ in: A. Speer, M. R. Schneider (eds.) <i>Curiositas</i> (= Miscellanea Mediaevalia 42), Berlin/Boston: De Gruyter, 2022, 505–524</li>
@@ -31,3 +33,10 @@ telalters, 123), Leiden: Brill, 2017. <a href="https://brill.com/display/title/3
 
 # Translations
 <ol><li id="Kircher"> <a href="https://www.hmt-leipzig.de/de/home/fachrichtungen/institut-fuer-musikwissenschaft/forschung/musurgia-universalis"><i>Athanasius Kircher, Musurgia Universalis sive Ars magna consoni et dissoni, Rome 1650 (10 volumes)</i></a> Translated by Günter Scheibel, revised by Jacob Langeloh and Frank Böhling. Edited by Christoph Hust and Markus Engelhardt. About 1300 pages Latin original, 1700 pages translation. Published online</li></ol>
+
+# Datasets
+<ol>
+<li id="otra_ontology"> <a href="https://zenodo.org/records/12605515"><i>OTRA Ontology</i></a> Contains classes, predicates, and types  to represent intertextual relations and argumentative statements within interreligious encounters as Linked Data.
+</li>
+<li id="otra_one"> <a href="https://zenodo.org/records/12605638"><i>OTRAone Dataset</i></a> Linked Data representing the relations between multiple texts based on Riccoldo da Monte di Croce's <i>Contra Legem Sarracenorum</i>.
+</li></ol>
