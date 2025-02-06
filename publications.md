@@ -16,7 +16,7 @@ permalink: /publications/
 
 # Articles
 <ol>
-<li id="riccoldo_linked"> <i>forthcoming</i> ‘From Florence, through Baghdad, into the world. Representing and analyzing influences on and of Riccoldo da Monte di Croce (d. 1320) as Linked Open Data’ in: <i>Archa Verbi – Yearbook for the Study of Medieval Theology</i>, 2025 [in print].</li>
+<li id="riccoldo_linked"> <i>forthcoming</i> ‘From Florence, through Baghdad, into the World. Representing and analyzing influences on and of Riccoldo da Monte di Croce (d. 1320) as Linked Open Data’ in: <i>Archa Verbi – Yearbook for the Study of Medieval Theology</i>, 2025 [in print].</li>
 <li id="preacher"> <i>forthcoming</i> ‘Confutation, Conversion, Martyrdom. How John of Ragusa Sought to Confront the ‘Saracens’ While at Constantinople in 1435–1437’ in: <i>Rivista Storica Italiana</i>, 137.1 (2025), 268–303.</li>
 <li id="unleash"> <a href="https://doi.org/10.5617/dhnbpub.11519">‘Unleash the Apparatus? Towards a shared representation of knowledge about connections between primary sources’</a>, in: <i>Digital Humanities in the Nordic and Baltic Countries Publications</i>, 6.1 (2024).</li>
 <li id="reasoning"> <a href="https://doi.org/10.62077/35j8k4.j1gs7d">‘Reasoning with Riccoldo. John of Ragusa’s Fragmentum de Conditionibus Legum, written at Constantinople (?) c. 1437’</a> in: <a href="https://doi.org/10.62077/35j8k4">K. Villads Jensen, D. Scotto (eds.), <i>Riccoldo da Monte di Croce (†1320). Missionary to the Middle East and Expert on Islam</i></a>, Stockholm, 2024, 219–237.</li>
@@ -35,7 +35,7 @@ permalink: /publications/
 <ol><li id="Kircher"> <a href="https://www.hmt-leipzig.de/de/home/fachrichtungen/institut-fuer-musikwissenschaft/forschung/musurgia-universalis"><i>Athanasius Kircher, Musurgia Universalis sive Ars magna consoni et dissoni, Rome 1650 (10 volumes)</i></a> Translated by Günter Scheibel, revised by Jacob Langeloh and Frank Böhling. Edited by Christoph Hust and Markus Engelhardt. About 1300 pages Latin original, 1700 pages translation. Published online</li></ol>
 
 # Datasets
-<ol>
+<ol id="datasets">
 <li id="otra_ontology"> <a href="https://zenodo.org/records/12605515"><i>OTRA Ontology</i></a> Contains classes, predicates, and types  to represent intertextual relations and argumentative statements within interreligious encounters as Linked Data.
 </li>
 <li id="otra_one"> <a href="https://zenodo.org/records/12605638"><i>OTRAone Dataset</i></a> Linked Data representing the relations between multiple texts based on Riccoldo da Monte di Croce's <i>Contra Legem Sarracenorum</i>.

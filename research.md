@@ -17,12 +17,18 @@ permalink: /research/
   </tr>
   <tr>
     <th>Contents</th>
-    <td>I represent textual and topical connections within Christian-Muslim Religious Encounters through Linked Open Data. </td>
+    <td>I represented textual and topical connections within Christian-Muslim Religious Encounters through Linked Open Data. </td>
   </tr>
 </tbody>
 </table>
 
-Outputs: See [Publication](/publications) [A1](/publications#simplify), and the presentations from [DHNB Conference 2023 (online)](https://www.youtube.com/watch?v=7LpHKj1wuKs) and [Qu’est-ce que le Qur’ān européen ? (Nantes)](https://www.youtube.com/watch?v=jjai8Art-f0)
+### Outputs
+
+[Articles](/publications): (1) [From Florence, through Baghdad, into the World](/publications#unleash), (2) [Unleash the Apparatus](/publications#unleash), (3) [Confutation, Conversion, Martyrdom](/publications#preacher), (4) [Simplify and Doctrinalise](/publications#simplify)
+
+__Presentations__: [DHNB Conference 2023 (online)](https://www.youtube.com/watch?v=7LpHKj1wuKs) and [Qu’est-ce que le Qur’ān européen ? (Nantes)](https://www.youtube.com/watch?v=jjai8Art-f0)
+
+[Data](/publications#datasets): (1) [OTRA Connective Ontology](/publications#otra_ontology), (2) [OTRAone Dataset ](/publications#otra_one)
 
 # Utopian Narrations
 <table>
@@ -42,7 +48,7 @@ Outputs: See [Publication](/publications) [A1](/publications#simplify), and the 
 </tbody>
 </table>
 
-*Outputs:* See [publications](/publications) [A3](/publications#matched), [A5](/publications#Neugier), [A7](/publications#waging).
+*Outputs:* (1) [It might be not impossible](/publications#impossible), (2) [Matched Weapons](/publications#matched), (3) [Neugier auf Pilgerreise](/publications#Neugier), (4) [Waging War for Justice](/publications#waging).
 
 # European Reception of Islam in the Middle Ages
 <table>
@@ -62,16 +68,16 @@ Outputs: See [Publication](/publications) [A1](/publications#simplify), and the 
 </tbody>
 </table>
 
-*Outputs:* See [publications](/publications) [M1](/publications#islam), [A2](/publications#reasoning), [A6](/publications#council), [A8](/publications#mission)
+*Outputs:* (1) [Der Islam auf dem Konzil von Basel](/publications#islam), (2) [Reasoning with Riccoldo](/publications#reasoning), (3) [Qur'an at the Council](/publications#council), (4) [Bücher für die Mission](/publications#mission)
 
 # Political Philosophy in the Middle Ages and argumenation from examples
 In my PhD thesis, I provided an historical and analytical description of the previously neglected role that exemplary and historical argumentation play in scholastic political treatises. My advisor was Prof. Dr. Wilhelm Schmidt-Biggemann (FU Berlin).
-*Outputs:* See [publications](/publications) [M3](/publications#argumente), [A4](/publications#contingency), [A9](/publications#Minorem)
+*Outputs:* (1) [Erzählte Argumente](/publications#argumente), (2) [How history happens](/publications#contingency), (3) [Minorem probat per Simile](/publications#Minorem)
 
 # Translation: Athanasius Kircher, *Musurgia Universalis*
 Together with Frank Böhling, I revised a Latin-German translation of the *Musurgia Univeralis* by Athanasius Kircher (Rome 1650). The *Musurgia Univeralis* consists of 10 books and about 1200 total pages that are supposed to contain "everything there is to know about music". The translation was originally done by the philologist Günter Scheibel. The project was initiated and led by Prof. Dr. Christoph Hust (HMT Leipzig) in cooperation with the DHI Rome (Dr. Markus Engelhardt).
-*Outputs:* See [publications](/publications) [T1](/publications#Kircher)
+*Outputs:* [Musurgia Universalis](/publications#Kircher)
 
 # Conceptual History of Performance Concepts
 I analysed which concepts were used to describe musical performances throughout the 18th century. The work focused in on three case studies that offered a specific milieu in terms of persons, society, structures, and publication organs. The three locations and time frames are also in the title of the book that came out of this project: Hamburg 1725, Berlin 1765, Wien 1800. The project was led by Prof. Dr. Dr. h. c. Hermann Danuser (HU Berlin). I cooperated closely with my two colleagues Laure Spaltenstein and Felix Emter, who covered the 19th and the 20th century, respectively.
-*Outputs:* See [publications](/publications) [M2](/publications#hamburg)
+*Outputs:* [Hamburg, Berlin, Wien](/publications#hamburg)
