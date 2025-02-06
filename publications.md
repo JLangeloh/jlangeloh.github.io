@@ -31,10 +31,12 @@ permalink: /publications/
 <li id="Minorem"> ‘“Minorem probat per simile”. Analogical Reasoning in the Commentaries on Aristotle’s Politics by Albert the Great and Thomas Aquinas’, in: M. Lutz-Bachmann, D. Carron, A. Spindler, M. Toste (eds.): <i>Von Macht und Herrschaft. ‘Potestas’ und ‘dominium’ in der politischen Theorie des 13. und 14. Jahrhunderts</i> (= Schwächediskurse und Ressourcenregime/Discourses of Weakness and Ressource Regimes, 3) Frankfurt: Campus, 2018, 49–70.</li>
 </ol>
 
-# Translations
+
+<h1>Translations</h1>
 <ol><li id="Kircher"> <a href="https://www.hmt-leipzig.de/de/home/fachrichtungen/institut-fuer-musikwissenschaft/forschung/musurgia-universalis"><i>Athanasius Kircher, Musurgia Universalis sive Ars magna consoni et dissoni, Rome 1650 (10 volumes)</i></a> Translated by Günter Scheibel, revised by Jacob Langeloh and Frank Böhling. Edited by Christoph Hust and Markus Engelhardt. About 1300 pages Latin original, 1700 pages translation. Published online</li></ol>
 
-# Datasets
+
+<h1>Datasets</h1>
 <ol id="datasets">
 <li id="otra_ontology"> <a href="https://zenodo.org/records/12605515"><i>OTRA Ontology</i></a> Contains classes, predicates, and types  to represent intertextual relations and argumentative statements within interreligious encounters as Linked Data.
 </li>
