@@ -31,6 +31,11 @@ permalink: /publications/
 <li id="Minorem"> ‘“Minorem probat per simile”. Analogical Reasoning in the Commentaries on Aristotle’s Politics by Albert the Great and Thomas Aquinas’, in: M. Lutz-Bachmann, D. Carron, A. Spindler, M. Toste (eds.): <i>Von Macht und Herrschaft. ‘Potestas’ und ‘dominium’ in der politischen Theorie des 13. und 14. Jahrhunderts</i> (= Schwächediskurse und Ressourcenregime/Discourses of Weakness and Ressource Regimes, 3) Frankfurt: Campus, 2018, 49–70.</li>
 </ol>
 
+# Smaller Contributions
+<ol>
+<li id="sharing"> ‘<a href="https://tidsskrift.dk/teolinformation/article/view/147523">Sharing Knowledge about Interreligious Connections. A Linked Data Approach to Medieval Studies</a>’, in: TEOL-information 70 (9/2024), 34–37.</li>
+</ol>
+
 
 <h1>Translations</h1>
 <ol><li id="Kircher"> <a href="https://www.hmt-leipzig.de/de/home/fachrichtungen/institut-fuer-musikwissenschaft/forschung/musurgia-universalis"><i>Athanasius Kircher, Musurgia Universalis sive Ars magna consoni et dissoni, Rome 1650 (10 volumes)</i></a> Translated by Günter Scheibel, revised by Jacob Langeloh and Frank Böhling. Edited by Christoph Hust and Markus Engelhardt. About 1300 pages Latin original, 1700 pages translation. Published online</li></ol>
